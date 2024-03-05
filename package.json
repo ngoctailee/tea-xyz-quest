@@ -1,0 +1,9 @@
+{
+  "name": "@ngoctailee_npm/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@ngoctailee_npm",
+  "repository": "https://github.com/ngoctailee/tea-xyz-quest.git",
+  "license": "ISC"
+}
